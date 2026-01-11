@@ -6,9 +6,11 @@
   "shell-version": [
     "45",
     "46",
-    "47"
+    "47",
+    "48",
+    "49"
   ],
   "url": "https://github.com/VirlesFelyard/IndicatorVisibilityTool",
   "uuid": "IndicatorVisibilityTool@VirlesFelyard",
-  "version": 4
+  "version": 6
 }
